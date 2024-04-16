@@ -1,1 +1,1 @@
-# RedCap-API-Connection-Info
+# RedCap API Connection Info
