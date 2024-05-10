@@ -30,7 +30,10 @@ Additional information about each of these parameters and more options for API c
 	* This parameter states the return type to be retrieved from REDCap via the API call.  These are limited to the type of `content` in the call but can be CSV, XML, FLAT, etc.
 ---
 
-#### Office of Data Analysis and Strategy Info
+### Office of Data Analysis and Strategy Info
+
 **Team Members** - Jhojana Infante, Jedediah Smith, Lennen Madere
 
 **Email** - odas@ecu.edu
+
+Please contact us with any additional questions or concerns you may have.  We would be more than happy to communicate and discuss with any information we can provide.
